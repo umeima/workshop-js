@@ -11,8 +11,8 @@ favoritebooks.push('Great')
     var number = favoritebooks.length; 
     console.log('livres'+''+'favoris:'+ number);
    
-    for (let i = 0 ; i < favoritebooks.length; i++){
-     console.log(favoritebooks[i]);
+    for (let value of favoritebooks){
+     console.log (value);
     
         
     }
