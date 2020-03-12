@@ -26,4 +26,8 @@ Conseils :
 
 	Assurez-vous d'appeler ensuite la fonction `printFavoriteBooks()` à la fin du programme.
 
+
 	Astuce : Utilisez la boucle de style `for ( let .. of .. ) { }`.
+
+	
+
